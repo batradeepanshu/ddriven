@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.left-section{
+  border-right: 1px solid black;
+  height:130rem;
+}

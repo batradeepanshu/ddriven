@@ -1,0 +1,18 @@
+.flight-detail-wrap{
+padding: 2rem;
+
+}
+.flight-detail-wrap .flight-container{
+  padding: 2rem;
+  text-align: left;
+  border: 1px solid black;
+  margin-bottom: 2rem;
+}
+
+.flight-key{
+  text-transform: uppercase;
+}
+.flight-price{
+  font-size: 3rem;
+  font-weight: 500;
+}
